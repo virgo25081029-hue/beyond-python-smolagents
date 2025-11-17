@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<!-- saved from url=(0054)file:///C:/Users/Admin/Downloads/sinhca_v11%20(1).html -->
+<html lang="vi"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Sình Ca – Tiếng hát giao duyên của người Cao Lan</title>
+<style>
+  :root{
+    --red-pastel:#A85C5C;
+    --accent:#FFD43B;
+    --bg:#FFF8E7;
+    --text:#2b2b2b;
+    --header-height:72px;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;font-family: "Noto Sans", "Segoe UI", sans-serif;background:var(--bg);color:var(--text);-webkit-font-smoothing:antialiased}
+  a{color:inherit}
+
+  /* Fixed header so nav always visible */
+  header{
+    position:fixed;
+    top:0;
+    left:0;
+    right:0;
+    height:var(--header-height);
+    background:var(--red-pastel);
+    color:#fff;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    padding:10px 32px;
+    z-index:2000;
+    box-shadow:0 2px 8px rgba(0,0,0,0.12);
+  }
+  .brand{display:flex;align-items:center;gap:12px}
+  .brand img{height:48px;width:48px;object-fit:cover;border-radius:8px}
+  nav{display:flex;gap:20px;align-items:center}
+  nav a{color:white;text-decoration:none;font-weight:600;padding:8px 6px;border-radius:6px}
+  nav a:hover{background:rgba(255,255,255,0.06)}
+
+  /* ensure main content starts below header */
+  main{padding-top:calc(var(--header-height) + 24px);max-width:1100px;margin:0 auto}
+
+  /* Banner */
+  .banner{position:relative;height:68vh;overflow:hidden;border-radius:8px;margin:12px 16px}
+  .banner .slide{position:absolute;inset:0;background-position:center;background-size:cover;opacity:0;transition:opacity 1s ease}
+  .banner .slide.active{opacity:1}
+  .banner .overlay{position:absolute;inset:0;background:rgba(0,0,0,0.45)}
+  .banner .content{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);z-index:3;text-align:center;color:#fff;padding:24px;border-radius:10px}
+  .cta{margin-top:16px}
+  .btn{background:var(--accent);color:#000;padding:12px 20px;border-radius:999px;text-decoration:none;font-weight:700}
+
+  /* sections */
+  section{padding:40px 16px}
+  h2{color:var(--red-pastel);margin:0 0 12px;font-size:28px}
+  p{line-height:1.7;margin:0 0 12px}
+
+  /* video / gallery / audio */
+  .grid{display:grid;gap:18px}
+  .videos{grid-template-columns:repeat(auto-fit,minmax(280px,1fr));display:grid}
+  .video-card{background:#fff;padding:12px;border-radius:10px;box-shadow:0 8px 20px rgba(0,0,0,0.06)}
+  video{width:100%;height:auto;border-radius:8px;background:#000;display:block}
+
+  .gallery{display:flex;gap:12px;flex-wrap:wrap;justify-content:center}
+  .gallery img{width:320px;height:200px;object-fit:cover;border-radius:8px;box-shadow:0 6px 14px rgba(0,0,0,0.06)}
+  .audio-list{display:flex;gap:12px;flex-wrap:wrap}
+  .audio-item{background:#fff;padding:12px;border-radius:10px;box-shadow:0 6px 14px rgba(0,0,0,0.06); width:320px}
+
+  /* QR */
+  .qr{display:flex;align-items:center;gap:16px}
+
+  /* footer */
+  footer{background:var(--red-pastel);color:#fff;padding:28px 16px;margin-top:20px;text-align:center}
+
+  /* small screens */
+  @media (max-width:720px){
+    nav{display:none}
+    .brand h1{font-size:18px}
+    .gallery img{width:100%;height:180px}
+  }
+
+  /* make anchor jump account for fixed header */
+  section[id] { scroll-margin-top: calc(var(--header-height) + 24px); }
+
+</style>
+</head>
+<body>
+
+<header>
+  <div class="brand">
+    <img src="./Sình Ca – Tiếng hát giao duyên của người Cao Lan 4_files/dclogo.png" alt="Logo Sình Ca">
+    <div>
+      <div style="font-weight:800;font-size:20px">SÌNH CA</div>
+      <div style="font-size:12px;opacity:.95">Tiếng hát giao duyên của người Cao Lan</div>
+    </div>
+  </div>
+
+  <nav>
+    <a href="file:///C:/Users/Admin/Downloads/sinhca_v11%20(1).html#nguongoc">Nguồn gốc</a>
+    
+    <a href="file:///C:/Users/Admin/Downloads/sinhca_v11%20(1).html#cachthuchat">Cách thức hát</a>
+    <a href="file:///C:/Users/Admin/Downloads/sinhca_v11%20(1).html#trangphuc">Trang phục</a>
+    <a href="file:///C:/Users/Admin/Downloads/sinhca_v11%20(1).html#ynghia">Ý nghĩa</a><a href="file:///C:/Users/Admin/Downloads/sinhca_v11%20(1).html#video">Video</a>
+    <a href="file:///C:/Users/Admin/Downloads/sinhca_v11%20(1).html#lienhe">Liên hệ</a>
+  </nav>
+</header>
+
+<main>
+    <div class="banner" aria-hidden="false">
+    
+    
+    
+
+    <div class="overlay"></div>
+
+    <div class="content">
+      <h1 style="font-size:36px;margin:0 0 8px;font-weight:800">SÌNH CA – Di sản văn hóa phi vật thể Việt Nam</h1>
+      <p style="margin:0 0 12px">Tiếng hát giao duyên của người Cao Lan</p>
+      <div class="cta"><a class="btn" href="file:///C:/Users/Admin/Downloads/sinhca_v11%20(1).html#gioithieu">Khám phá</a></div>
+    </div>
+  </div>
+
+  
+
+  <section id="nguongoc">
+    <h2>Nguồn gốc</h2>
+    <p>Sình ca là hình thức diễn xướng dân gian (đôi khi còn gọi là dân ca) của người Cao Lan ở miền Bắc Việt Nam. Sình ca ra đời gắn liền với truyền thuyết dân gian về nàng Lưu Ba (lau-slam) của dân tộc Cao Lan - một câu chuyện tình đầy cảm động, đẹp đẽ nhưng cũng chứa đựng nhiều nỗi ai oán. Chính tình yêu mãnh liệt đó đã thúc giục nàng sáng tác ra những lời hát tha thiết, chân thành. Sau khi nàng Lưu Ba qua đời, người dân tộc Cao Lan đã tôn nàng lên làm Bà chúa của thơ ca và tên gọi Sình ca (Sịnh ca) ra đời, thể hiện sự tôn kính đối với nàng. Trong tiếng Cao Lan, “Sình” hay “Sịnh” có nghĩa là thần, chúa, có uy lực ngang hàng với các vị thần siêu nhiên như thần Sông, thần Núi... </p>
+  </section>
+
+  
+
+  <section id="cachthuchat">
+    <h2>Cách thức hát</h2>
+    <ol>
+      <li>Hát lễ nghi (Hát đơn).</li>
+      <li>Hát giao duyên nam nữ (Hát đôi).</li>
+      
+      <li>Đám cưới &amp; mừng nhà mới (Hát đôi).</li>
+      <li>Hát ru (Hát đơn).</li>
+    </ol>
+  </section>
+
+  <section id="trangphuc" style="background:#fffbe6;border-radius:10px;padding:28px">
+    <h2>Trang phục truyền thống</h2>
+    <p>Trang phục hát Sình ca – Hồn quê trong từng đường kim nét vải”
+ Trong những làn điệu ngân vang giữa núi rừng mênh mông, rộng lớn, trang phục truyền thống đã điểm tô thêm sắc màu văn hóa dân tộc vào từng câu hát. Tạo nên âm vang Sình ca vừa giản dị, lại vừa mang đậm dấu ấn riêng của dân tộc Cao Lan.
+✨ Hình ảnh những người phụ nữ khoác lên mình chiếc áo chàm dài viền đỏ, thắt dải lưng rực rỡ sắc hồng, xanh, chàm — vừa mộc mạc, vừa duyên dáng.
+ Nam giới giản dị với áo chàm ngắn hoặc dài, quần ống rộng, đầu quấn khăn đỏ — khỏe khoắn và tự nhiên.
+  Tạo nên sự kết hợp vô cùng độc đáo giữa âm nhạc và con người. Mỗi bộ trang phục không chỉ là tấm áo, mà còn là hơi thở của văn hóa, là niềm tự hào của bao thế hệ người Cao Lan, gắn liền với giai điệu giao duyên tha thiết của Sình ca.
+💖 Giữ hồn trong áo chàm – gìn giữ bản sắc qua từng khúc hát quê </p>
+    <div class="gallery">
+      <img src="./Sình Ca – Tiếng hát giao duyên của người Cao Lan 4_files/trangphuc1.jpg">
+      <img src="./Sình Ca – Tiếng hát giao duyên của người Cao Lan 4_files/trangphuc2.jpg" alt="Trang phục 2">
+    </div>
+  </section>
+
+  <section id="ynghia" style="background:#fffbe6;border-radius:10px;padding:28px">
+    <h2>Ý nghĩa</h2>
+    <ul>
+      
+      
+      <li>Với người Cao Lan, nghệ thuật hát sình ca luôn được giữ gìn như báu vật. Trong đời sống sinh hoạt của người Cao Lan, sình ca vẫn được lưu hành. Ngoài mục đích giao lưu giải trí và thỏa mãn nhu cầu nghệ thuật của người dân tộc Cao Lan thì hát sình ca còn có ý nghĩa trong việc giáo dục, góp phần vào công tác xây dựng đời sống văn hóa ở cơ sở, là sản phẩm văn hoá độc đá</li>
+    </ul>
+  </section>
+
+  <section id="video">
+    <h2>Video hát Sình Ca</h2>
+    <div class="videos">
+      <div class="video-card"><video controls="" preload="metadata" src="1116.mp4"></video></div>
+      <div class="video-card"><video controls="" preload="metadata" src="video2.mp4"></video></div>
+      <div class="video-card"><video controls="" preload="metadata" src="video1.mp4"></video></div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Trải nghiệm 3D - Không gian Sình Ca</h2>
+    <div class="qr">
+      <img src="./Sình Ca – Tiếng hát giao duyên của người Cao Lan 4_files/qrcode.jpg" alt="QR FrameVR" width="160" height="160">
+      <div>
+        <p>Quét QR để vào không gian FrameVR mô phỏng hát Sình Ca.</p>
+        <p><a href="https://framevr.io/sinhca" target="_blank">framevr.io/sinhca</a></p>
+      </div>
+    </div>
+  </section>
+
+  <footer id="lienhe">
+    
+    <p></p><p>
+    <a href="https://www.facebook.com/profile.php?id=61583471403521" target="_blank">Facebook</a>
+    • 
+    <a href="https://www.tiktok.com/@clbsinhca_thptdoican1?lang=vi-VN" target="_blank">TikTok</a>
+    • 
+    <a href="https://www.youtube.com/@SinhcaDoiCan-888" target="_blank">YouTube</a>
+</p><p></p>
+    <p>Địa chỉ: THPT Đội Cấn - An Khánh - Thái Nguyên</p>
+  <p>📧 sinhcathptdoican@gmail.com • THPT Đội Cấn – An Khánh – Thái Nguyên</p></footer>
+</main>
+
+<script>
+(() => {
+  // slideshow
+  const slides = Array.from(document.querySelectorAll('.banner .slide'));
+  let idx = 0;
+  setInterval(() => {
+    slides[idx].classList.remove('active');
+    idx = (idx + 1) % slides.length;
+    slides[idx].classList.add('active');
+  }, 5000);
+
+  // smooth scrolling for nav links (account for fixed header)
+  document.querySelectorAll('nav a').forEach(a => {
+    a.addEventListener('click', (e) => {
+      e.preventDefault();
+      const target = document.querySelector(a.getAttribute('href'));
+      if (!target) return;
+      const headerH = document.querySelector('header').offsetHeight;
+      const y = target.getBoundingClientRect().top + window.scrollY - headerH - 12;
+      window.scrollTo({ top: y, behavior: 'smooth' });
+    });
+  });
+})();
+</script>
+
+
+</body></html>
